@@ -13,3 +13,8 @@ OpenStreetMap (OSM) is a global, community-driven project that creates and distr
 *“Map all restaurants that serve pizza in Barcelona.”*
 
 Behind the scenes, ChatOSM translates natural language prompts into structured OpenStreetMap queries and renders the results as interactive maps. This is accomplished through tool calling within an agent-based architecture. The model used in this project is Hermes, an 8B-parameter large language model available on Hugging Face. Hermes is fine-tuned from Llama 3.1 specifically to specialize in structured tool use. Tool calling enables large language models to interact with external systems, APIs, and databases, allowing them to perform actions or retrieve real-time data beyond their training corpus. Instead of generating only conversational text, the model can return a structured JSON object that specifies which tool to call and what arguments to pass.
+
+---
+
+<img width="1563" height="984" alt="image" src="https://github.com/user-attachments/assets/d3e57a06-b97f-47c5-bda9-f5175abd5ece" />
+
