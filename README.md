@@ -18,7 +18,7 @@ Behind the scenes, ChatOSM translates natural language prompts into structured O
 
 <img width="1563" height="984" alt="image" src="https://github.com/user-attachments/assets/d3e57a06-b97f-47c5-bda9-f5175abd5ece" />
 
-<img alt="image" src="./mercator.svg" />
+<iframe src="./mercator.svg" width="480" height="480" style="border:none;"></iframe>
 
 
 
